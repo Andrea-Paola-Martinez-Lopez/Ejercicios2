@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21bcc0c2-43ec-43b0-91ff-482d29666b4d" name="Changes" comment="Ejercicio5">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ejercicios/Ejercicio4.kt" afterDir="false" />
+    <list default="true" id="21bcc0c2-43ec-43b0-91ff-482d29666b4d" name="Changes" comment="Ejercicio4">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ejercicios/Ejercicio3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ejercicios/Ejercicio6.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.Ejercicio4Kt">
+}</component>
+  <component name="RunManager" selected="Kotlin.Ejercicio3Kt">
     <configuration name="Ejercicio1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicios.Ejercicio1Kt" />
       <module name="Ejercicios2" />
@@ -45,8 +46,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicios.Ejercicio2Kt" />
+    <configuration name="Ejercicio3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.Ejercicio3Kt" />
       <module name="Ejercicios2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,12 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ejercicio6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicios.Ejercicio6Kt" />
+      <module name="Ejercicios2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ejercicio3Kt" />
+        <item itemvalue="Kotlin.Ejercicio6Kt" />
         <item itemvalue="Kotlin.Ejercicio4Kt" />
         <item itemvalue="Kotlin.Ejercicio1Kt" />
         <item itemvalue="Kotlin.Ejercicio5Kt" />
-        <item itemvalue="Kotlin.Ejercicio2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664730763106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Ejercicio4">
+      <created>1664745506274</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664745506274</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio5" />
+    <MESSAGE value="Ejercicio4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio4" />
   </component>
 </project>
